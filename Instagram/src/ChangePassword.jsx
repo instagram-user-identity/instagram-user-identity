@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useForm } from 'react-hook-form'
-import '../src/ChangePassword.css' 
+import '../src/Changepassword.css' 
 import axios from 'axios'  
 
 const ChangePassword = () => {
